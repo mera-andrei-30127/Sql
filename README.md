@@ -4,4 +4,4 @@
 different functions/procedures/trigger to tables. Code describe an school structure 
 through our eyes.
 
-![Exercise 1 image](docs/ex1.pgn)
+![Exercise 1 image](docs/ex1.PGN)
